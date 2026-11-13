@@ -1,0 +1,5 @@
+# Normalize line endings: store LF in the repository, keep checkout stable cross-platform.
+* text=auto eol=lf
+*.svg text eol=lf
+*.py text eol=lf
+*.md text eol=lf
